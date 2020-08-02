@@ -1,0 +1,25 @@
+.button{
+  /*height: 100px;
+  width: 150px;*/
+  /*text-align: center;*/
+  height: 4em;
+  width: 18em;
+  background: rgba(0,0,0,0.4);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  margin-right:10px;
+}
+.button:hover{
+  background-color: rgba(0,0,0,0.6);
+  transition-duration: 2s;
+}
+.button a{
+  text-decoration: none;
+  font-weight: bold;
+}
+#button{
+  display: flex;
+  justify-content: flex-end;
+}

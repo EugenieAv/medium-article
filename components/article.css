@@ -1,0 +1,15 @@
+.article h3{
+  font-size: 79px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+p{
+  font-family: Raleway;
+  font-style: light;
+  text-align: justify;
+  font-size: 16px;
+}
+.article div{
+  width:80%;
+  margin-left: 20px;
+}
